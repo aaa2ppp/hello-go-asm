@@ -1,0 +1,5 @@
+*.o
+*.a
+bin/
+.build
+.image-id
